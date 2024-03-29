@@ -1,6 +1,6 @@
 {
-    "name": "Gojo_Satoru",
-    "description": "Gojo is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers.",
+    "name": "Senpai_bots",
+    "description": "Isha is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers.",
     "logo" : "https://te.legra.ph/file/633bd27c1607fe98920b6.jpg",
     "keywords": [
       "telegram bot",
@@ -10,8 +10,8 @@
       "Gojo",
       "Anime"
     ],
-    "repository": "https://github.com/Gojo-Bots/Gojo_Satoru",
-    "success_url": "https://t.me/GojoSuperbot",
+    "repository": "https://github.com/yoursenpai02/Gojo_Satoru",
+    "success_url": "https://t.me/ISHAxSENPAI_BOT",
     "env": {
       "BOT_TOKEN": {
         "description": "Your telegram bot token, get from @Botfather in telegram.",
